@@ -38,3 +38,8 @@ To build a model that is able to correctly identify fraudulent credit card trans
 - Model Training
 - Making predictions
 
+# Snapshot
+
+![Screenshot 2023-09-14 at 22 01 26](https://github.com/redjules/isolation-forest-model/assets/106017493/2ec7998b-e0f4-47e0-8491-640fda26f145)
+
+![Screenshot 2023-09-14 at 22 03 20](https://github.com/redjules/isolation-forest-model/assets/106017493/4ebd52f6-35be-4638-a075-004f4b985558)
